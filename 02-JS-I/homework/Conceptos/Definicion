@@ -1,0 +1,25 @@
+   // Variables == Es como contenedor que tiene información que se puede acceder. 
+    En otras palabras, es como una caja que contiene items, 
+    que se puede abrir y cerrar y tambien añadir cosas.
+
+  // Strings == Es una serie ordenada de elementos que hacen parte de a un lenguaje formal 
+    especial que define a una fórmula o a una oración.
+
+  // Funciones (argumentos, return). 
+
+    Return es una funcion que puede devolver un resultado. 
+    
+    En ocasiones, junto con las funciones, también se usan algunas 
+    variables o valores que ayudan en la ejecución de un programa. Estas variables que nos dan 
+    información adicional sobre la función, son los argumentos. Los argumentos que son usados en una funcion, 
+    no se pueden usar en otras funciones ya que son específicos de una función en particular. Adicionalmente, 
+    podemos agregar muchos argumentos a la función para hacerla más informativa.
+    
+  // Declaraciones if == Se usa para tomar decisiones, y evalua básicamente una operación lógica, es decir 
+  una expresión que al final resulte True o False , y solo se ejecuta siempre y cuando el resultado sea verdadero.
+
+  // Valores booleanos (true, false).
+
+    True representa un valor verdadero
+
+    False representa un valor falso
