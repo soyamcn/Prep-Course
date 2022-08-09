@@ -1,0 +1,7 @@
+// for : Es un Bucle que se suele utilizar cuando sabemos seguro el número de veces que queremos que se ejecute.
+
+// &&: Es el operador lógico y trabaja con operandos booleanos. Como sugiere el nombre, los operadores lógicos pueden realizar la operación lógica y combinar dos o más condiciones
+
+// || : es un operador lógico que significa OR , y esta pensado para manipular solo valores booleanos. Si cualquiera de sus argumentos es true, retorna true, de lo contrario retorna false.
+
+// ! : La precedencia de NOT ! es la mayor de todos los operadores lógicos, así que siempre se ejecuta primero, antes que && o ||. Simplemente si el operando tiene valor true este operador devolverá false y viceversa.
