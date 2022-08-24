@@ -1,0 +1,8 @@
+// Objetos: Es lo mismo que un objeto en el mundo real. Es decir, es como "algo" que contiene información sobre sí mismo y sobre su estado, y con el que puedes interactuar.
+// Propiedades: Son las variables que puede tener un objeto y que soncaracteristicas propias de ese objeto. Por ejemplo, en un coche podían ser la marca, el modelo, potencia del motor, capacidad del maletero, etc.
+// Métodos: Son instrucciones que pueden cambiar los valores que hemos asignado a esas propiedades 
+// Blucle (for...in):Es una alternativa al bucle for, para recorridos a propiedades de objetos. Este buble muestra cómo iterar por las propiedades y los valores de las propiedades de un objeto, de manera genérica en Javascript.
+// Notación de puntos vs notación de corchetes:
+    //La NOTACION DE PUNTOS es más rápida de escribir y más clara de leer.
+    //La NOTACION ENTRE CORCHETES permite el acceso a propiedades que contienen caracteres especiales. Un ejemplo de caracter que no se pueden usar con la notación de puntos es los nombres de propiedad que a su vez contienen un punto.
+        
