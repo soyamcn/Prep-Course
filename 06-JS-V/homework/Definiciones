@@ -1,0 +1,2 @@
+//Prototype: Prototype es un patrón de diseño creacional que permite la clonación de objetos. Es un mecanismo por el cual un objeto puede heredar atributos y métodos.
+// Constructors (de Clases): Los constructores en java son métodos obligatorios que se encargan de dar un estado inicial a nuestro objeto.
