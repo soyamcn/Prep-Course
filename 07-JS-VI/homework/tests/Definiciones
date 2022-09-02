@@ -1,0 +1,14 @@
+//Funciones Callback: Una función de callback es una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción
+// Los callback nos ayudan a desarrollar código JavaScript asíncrono y nos mantiene a salvo de problemas y errores.
+// Ejemplo: Se quiere registrar un mensaje en la consola, pero debe aparecer después de 3 segundos.
+
+const mensaje = function() {  
+    console.log("Este mensaje se muestra después de 3 segundos");
+}
+ 
+setTimeout(mensaje, 3000);
+
+//Hay un método incorporado en JavaScript llamado "setTimeout", que llama a una función o evalúa una expresión después de un período de tiempo determinado (en milisegundos). Así que aquí, la función "mensaje" está siendo llamada después de que hayan pasado 3 segundos. (1 segundo = 1000 milisegundos)
+
+//En otras palabras, la función de mensaje está siendo llamada después de que algo sucedió (después de que pasaron 3 segundos para este ejemplo), pero no antes. Así que la función de mensaje es un ejemplo de una función callback.
+
